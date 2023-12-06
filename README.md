@@ -1,16 +1,15 @@
 # Instacart Data Analysis - Python
 
-## Project Overview
+## Objectivies
 
-
-## Key Objectivies
+## Key Questions
 
 ## Data Sources
 
 ## Tools
 
-- Language: PostgressSQL
-- Applications: pgadmin, DBVisualiser, Tableau, Powerpoint, Excel
+- Language:
+- Applications:
 
 
 ## SQL Related Tasks
