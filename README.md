@@ -10,9 +10,15 @@ This project analyzes Instacart Grocery Basket datasets using Python to answer k
 
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. The goal of this analysis is to identify key customer segments for better ad campaign targeting and personalization while also exploring areas with limited market share.
 
-**_Disclaimer:_** *All datasets and reports do not represent any company, institution and country. It is mock dataset to demonstrate Python skills.*
-
 ## Key Questions
+
+1. How to improve the targeting of ad campaigns
+2. What part of their offering has the lowest market share and why.
+3. The sales team wants to identify peak and slow days and times to optimize ad scheduling
+4. The sales team is interested in determining if there are specific times of day when people make the most purchases, which could influence their choice of products to promote during those hours.
+5. Recommend simpler price range groupings to help marketing and sales teams direct their efforts.
+6. Are there certain types of products that are more popular than others?
+
 
 ## Data Sources
 The Instacart Online Grocery Shopping Dataset is an open-source dataset obtained from Kaggle on Nov 4th 2023. Following 4 dataset were acquired for the analysis:
