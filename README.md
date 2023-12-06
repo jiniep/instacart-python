@@ -4,7 +4,7 @@
 
 This project analyzes Instacart Grocery Basket datasets using Python to answer key questions posed by stakeholders. This project was part of the Career Foundary Online Data Analyst Course.
 
-Disclaimer: All datasets and reports do not represent any company, institution and country. It is mock dataset to demonstrate Pythin skills.
+**_Disclaimer:_** _All datasets and reports do not represent any company, institution and country. It is mock dataset to demonstrate Python skills._
 
 ## Objectivies
 
