@@ -1,4 +1,6 @@
-# Instacart Data Analysis - Python
+![Instacart logo](https://github.com/jiniep/instacart-python/blob/62c64b8e4678a55317aac61839f460926822b740/01%20Project%20Managenent/instacart_logo.png)
+
+# Instacart Grocery Basket Data Analysis - Python 
 
 ## Objectivies
 
