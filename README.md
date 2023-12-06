@@ -1,6 +1,10 @@
 ![Instacart logo](https://github.com/jiniep/instacart-python/blob/62c64b8e4678a55317aac61839f460926822b740/01%20Project%20Managenent/instacart_logo.png)
 
-# Instacart Grocery Basket Data Analysis - Python 
+# Instacart Grocery Basket Data Analysis - Python
+
+This project analyzes Instacart Grocery Basket datasets using Python to answer key questions posed by stakeholders. This project was part of the Career Foundary Online Data Analyst Course.
+
+Disclaimer: All datasets and reports do not represent any company, institution and country. It is mock dataset to demonstrate Pythin skills.
 
 ## Objectivies
 
