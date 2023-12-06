@@ -52,4 +52,4 @@ The Instacart Online Grocery Shopping Dataset is an open-source dataset obtained
 - Generating Visualization
 
 ## Report
-A [final report](https://github.com/jiniep/instacart-python/blob/0e3b6b3f3482d454ab807d46acdc7218f5980af3/04%20Sent%20to%20client/Final%20Report%20Instacart.xlsx) in excel was generated to show evidence of the analysis methodology, answers to the key questions in the brief, and recommendations for Instacart stakeholders.
+A [final report](https://github.com/jiniep/instacart-python/blob/0e3b6b3f3482d454ab807d46acdc7218f5980af3/04%20Sent%20to%20client/Final%20Report%20Instacart.xlsx) in excel was generated to show evidence of the analysis methodology, answers to the key questions in the brief and recommendations for Instacart stakeholders.
