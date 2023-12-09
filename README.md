@@ -43,7 +43,7 @@ The Instacart Online Grocery Shopping Dataset is an open-source dataset obtained
 
 
 ## Python Related Tasks
-- Data Wrangling & Subsetting
+- Data Cleaning & Subsetting
 - Data Consistency Checks
 - Combining & Exporting Data
 - Deriving New Variables
