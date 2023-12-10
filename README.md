@@ -23,10 +23,11 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 ## Data Sources
 The Instacart Online Grocery Shopping Dataset is an open-source dataset obtained from Kaggle on Nov 4th 2023. Following 4 dataset were acquired for the analysis:
 
-1. [Customer Dataset](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
+1. [Customers](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
 2. [Orders](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
 3. [Products](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip)
 4. [Departments](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zip)
+5. [Orders Product Link](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.6_orders_products_prior.zip)
 
 ## Tools
 
